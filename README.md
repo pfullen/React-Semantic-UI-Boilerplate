@@ -1,4 +1,4 @@
-#React-Semantic-UI-Boilerplate#
+# React-Semantic-UI-Boilerplate
 
 This is a boilerplate project with basic instalation of react semantic ui.
 
